@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/rarible-clone → Demo s
 Most NFT scripts stop at "mint + list." This platform ships with the features that actually run an NFT *marketplace*:
 
 - **Lazy Minting Native** — creators set up collections; minting happens on first purchase — same gas-saving pattern OpenSea pioneered
-- **Multi-Chain Marketplace** — 
-- **Royalty Engine** — Ethereum, Polygon, Solana, Base, BSC — same UI, chain-aware contracts
-- **Auction + Buy Now** — attribute-based rarity rankings within 1 minute of metadata upload — what collectors actually use
-- **Rarity & Analytics Tool** — timed auctions (English / Dutch / reserve), fixed-price, bundle sales — same modes Christie's and Sotheby's run
+- **Multi-Chain Marketplace** — Ethereum, Polygon, Solana, Base, BSC — same UI, chain-aware contracts
+- **Royalty Engine** — creator + collaborator + platform royalties — supports the EIP-2981 standard and per-collection overrides
+- **Auction + Buy Now** — timed auctions (English / Dutch / reserve), fixed-price, bundle sales — same modes Christie's and Sotheby's run
+- **Rarity & Analytics Tool** — attribute-based rarity rankings within 1 minute of metadata upload — what collectors actually use
 
 ## 📦 Core Features
 
