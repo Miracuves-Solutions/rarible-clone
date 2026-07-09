@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/rarible-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$6,999**, transparent on the [solution page](https://miracuves.com/rarible-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXNFT
 {CATEGORY}        NFT Marketplace Platform
 {DEMO_WEB}        mxnft.mimeld.com
-{PRICE}           $6,699
+{PRICE}           $6,999
 {SLUG}            rarible-clone
 {SOLUTION_URL}    https://miracuves.com/rarible-clone/
 {VERTICAL}        nft_marketplace
